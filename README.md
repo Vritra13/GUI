@@ -1,15 +1,13 @@
 # Introduction:
-This project is to create a GUI (Graphic user interface) that allow us to classify images for Crack-Detection. This user interface will be a usful tool to mark the cracks in the images with easy and faster pace. 
+The purpose of this project is to create a GUI (Graphic user interface) to classify images with cracks, also to let the whole team works on it and share codes with each other. We will be using python along with Tkinter or any GUI library availabe through python. Below, I will be explaining the over-all expectation for this project. Planning how approximately will look like and explain the functiality of the program. 
 
-# How to start? 
-We will start by creating phases, each phase will have its own set of challenges. With each phase we will try to make everyone on the team to have role. we will discuss roles later.
 
-## Details
+# Details
 Image below is an approximate of what the final product should look like. 
 
 ![alt text](https://i.imgur.com/V1Al9Hm.png)
 
-## Now lets go over the details of the functiality this GUI should have:
+### Now lets go over the details of the functiality this GUI should have:
 
 **1. Open Button:** This button should have the functioality to load an image to our program. When loaded, we should be able to edit it.
 
@@ -29,8 +27,11 @@ Image below is an approximate of what the final product should look like.
 
 
 
-## Working with the GUI: 
+### Working with the GUI: 
 We will be using Python to create this GUI. We can use [TKinter Library](https://www.tutorialspoint.com/python/python_gui_programming). There is [6 libraries for GUI framework](https://blog.resellerclub.com/the-6-best-python-gui-frameworks-for-developers/), You can chose whatever it's easier for you. Personally, I will be using Tkinter. We will use Github to communicate our codes. [Please see Refrecnce](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#relative-links) to get familiar with Github. 
+
+# How to start? 
+We will start by creating phases, each phase will have its own set of challenges. With each phase we will try to make everyone on the team to have role. we will discuss roles later.
 
 
 
