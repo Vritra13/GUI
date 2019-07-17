@@ -10,7 +10,7 @@ Image below is an approximate of what the final product should look like.
 
 <br />
 
-### Now lets go over the details of the functiality this GUI should have:
+### Now lets go over the details of the functionality this GUI should have:
 <br />
 
 **1. Open Button:** This button should have the functionality to load an image to our program. When loaded, we should be able to edit it.
