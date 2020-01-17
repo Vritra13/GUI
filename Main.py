@@ -1,5 +1,5 @@
 # Data Standardization
-# By Tallen Smith with help from Zach Holden, Adom Simpey, and Hassan Abdulkareem, student at CSUPueblo
+# By Dr. HA DO with help from Tallen Smith, Zach Holden, and Hassan Abdulkareem, students at CSUPueblo
 # 06/04/19
 
 # Imports necessary libraries
